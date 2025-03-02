@@ -1,0 +1,2 @@
+# composer系のディレクトリを除外
+vendor/
