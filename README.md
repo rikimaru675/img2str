@@ -38,3 +38,6 @@ https://github.com/tesseract-ocr/tessdata_best
 - Composer\
 https://getcomposer.org/
 
+
+## 出力HTMLファイルの表示例
+![sample image](sample.png)
